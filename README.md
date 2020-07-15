@@ -19,7 +19,7 @@ Known on internet as [**Karan Mehra**](#)
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/918146287107) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/karanmehra786/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](#) [<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@karankmehra8146287107)
 
 
-![Animated GIF-downsized_large (4)](https://user-images.githubusercontent.com/62024355/87348913-21f77d80-c573-11ea-9297-ba7acdf5a9e0.gif)
+[![Animated GIF-downsized_large (4)](https://user-images.githubusercontent.com/62024355/87348913-21f77d80-c573-11ea-9297-ba7acdf5a9e0.gif)](https://karanmehra7107.github.io/My-Portfolio/KaranMehra.pdf)
 
 
 
