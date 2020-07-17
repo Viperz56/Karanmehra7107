@@ -24,4 +24,4 @@ Known on internet as [**Karan Mehra**](#)
 
 
 
-[Rowht Swami](https://github.com/rowhitswami)
+Inspiration / Credit:[Rowht Swami](https://github.com/rowhitswami)
