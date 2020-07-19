@@ -3,9 +3,9 @@
 I’m currently looking for a full-time role in Data Science, Machine Learning or related field. 
 
 ### Things I'm good at :fire:
-**Languages:**  Python, SQL, HTML, CSS, JavaScript, Ruby.
+**Languages:**  Python, SQL, HTML, CSS, JavaScript.
 
-**Framework:** Flask, AdobeXD, Jupyter notebook , Bootstrap
+**Framework:** Flask, AdobeXD, Jupyter notebook , Bootstrap.
 
 **Libraries & Tools:** AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
 
