@@ -7,7 +7,7 @@ I’m currently looking for a full-time role in Data Science, Machine Learning o
 
 
 **Framework:** Flask, AdobeXD, Jupyter notebook , Bootstrap.
- ![framework](https://img.shields.io/badge/Flask-orange.svg) ![Language](https://img.shields.io/badge/AdobeXD-orange.svg) ![Language](https://img.shields.io/badge/Jupyter Notebook-orange.svg) ![Language](https://img.shields.io/badge/Bootsrap-orange.svg) ![Language](https://img.shields.io/badge/Dreamweaver-orange.svg) 
+ ![framework](https://img.shields.io/badge/Flask-orange.svg) ![Language](https://img.shields.io/badge/AdobeXD-orange.svg) ![Language](https://img.shields.io/badge/JupyterNotebook-orange.svg) ![Language](https://img.shields.io/badge/Bootsrap-orange.svg) ![Language](https://img.shields.io/badge/Dreamweaver-orange.svg) 
 
 **Libraries & Tools:** AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
 
