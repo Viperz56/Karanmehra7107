@@ -5,7 +5,7 @@ I’m currently looking for a full-time role in Data Science, Machine Learning o
 ### Things I'm good at :fire:
 **Languages:**  Python, SQL, HTML, CSS, JavaScript.
 
-![Language](https://img.shields.io/badge/Python-brightgreen.svg) ![Language](https://img.shields.io/badge/HTML-brightgreen.svg) ![Language](https://img.shields.io/badge/CSS-brightgreen.svg) ![Language](https://img.shields.io/badge/SQL-brightgreen.svg) ![Language](https://img.shields.io/badgeJavaScript-brightgreen.svg) 
+![Language](https://img.shields.io/badge/Python-brightgreen.svg) ![Language](https://img.shields.io/badge/HTML-brightgreen.svg) ![Language](https://img.shields.io/badge/CSS-brightgreen.svg) ![Language](https://img.shields.io/badge/SQL-brightgreen.svg) ![Language](https://img.shields.io/badge/JavaScript-brightgreen.svg) 
 
 
 **Framework:** Flask, AdobeXD, Jupyter notebook , Bootstrap.
