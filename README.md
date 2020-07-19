@@ -26,4 +26,4 @@ Known on internet as [**Karan Mehra**](#)
 
 ![Download](https://img.shields.io/badge/Download_Resume-brightorange.svg) 
   
-[![Animated GIF-downsized_large (4)](https://user-images.githubusercontent.com/62024355/87348913-21f77d80-c573-11ea-9297-ba7acdf5a9e0.gif)]([KaranMehra.pdf](https://github.com/Karanmehra7107/My-Portfolio/files/4938858/KaranMehra.pdf)
+[![Animated GIF-downsized_large (4)](https://user-images.githubusercontent.com/62024355/87348913-21f77d80-c573-11ea-9297-ba7acdf5a9e0.gif)]([KaranMehra.pdf](https://github.com/Karanmehra7107/My-Portfolio/files/4938858/KaranMehra.pdf))
