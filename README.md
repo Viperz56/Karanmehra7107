@@ -13,6 +13,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play drums.
 
+
 ### Things I'm good at :fire:
 **Other skills:**  Playback __Drummer__
 
