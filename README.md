@@ -7,6 +7,13 @@ Personally, I believe in the thought that “Time is the gift that most of us ta
 Apart from that ,I am a playback Drumme as i love Rock genere of music. 
 I am working towards a role where I can engage with a group of like-minded people who dream to bring revolution in the world with data.
 
+## I'm a Student, Data Scientist, Developer, and Drummer!
+- 🔭 I’m currently working on a [VS Code Course][website] !
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play drums.
+
 ### Things I'm good at :fire:
 **Other skills:**  Playback __Drummer__
 
