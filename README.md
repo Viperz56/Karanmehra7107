@@ -29,7 +29,8 @@ I am working towards a role where I can engage with a group of like-minded peopl
 **Front End:** HTML5, Css, AdobeXD, Node.js. 
 
 ### How to reach me
-Known on internet as [**Karan Mehra**]([KaranMehra.pdf](https://github.com/Karanmehra7107/Bootstrap-cap916/files/5042263/KaranMehra.pdf)
+Known on internet as [**Karan Mehra**](https://github.com/Karanmehra7107/Front-End-UI-Interface/files/5042291/KaranMehra.pdf)
+
 )
 
 
@@ -37,8 +38,8 @@ Known on internet as [**Karan Mehra**]([KaranMehra.pdf](https://github.com/Karan
 [<img src="https://img.icons8.com/dusk/64/000000/facebook.png"/>](https://www.facebook.com/jaimahakalkaran/)  [<img src="https://img.icons8.com/dusk/64/000000/twitter.png"/>](https://twitter.com/Karanme21095004)
 
 
-[Download Resume](KaranMehra.pdf](https://github.com/Karanmehra7107/Bootstrap-cap916/files/5042263/KaranMehra.pdf)
-)
+[Download Resume](https://github.com/Karanmehra7107/Front-End-UI-Interface/files/5042291/KaranMehra.pdf)
+
 
   
 [![Animated GIF-downsized_large (4)](https://user-images.githubusercontent.com/62024355/87348913-21f77d80-c573-11ea-9297-ba7acdf5a9e0.gif)]([KaranMehra.pdf][KaranMehra.pdf](https://github.com/Karanmehra7107/Bootstrap-cap916/files/5042263/KaranMehra.pdf)
