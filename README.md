@@ -17,16 +17,15 @@ I am working towards a role where I can engage with a group of like-minded peopl
 ### Things I'm good at :fire:
 **Other skills:**  Playback __Drummer__
 
-**Languages:**  ![Language](https://img.shields.io/badge/Python-brightgreen.svg) ![Language](https://img.shields.io/badge/HTML-brightgreen.svg) ![Language](https://img.shields.io/badge/CSS-brightgreen.svg) ![Language](https://img.shields.io/badge/SQL-brightgreen.svg) ![Language](https://img.shields.io/badge/JavaScript-brightgreen.svg) 
+**Languages:**  ![Language](https://img.shields.io/badge/Python-brightgreen.svg) ![Language](https://img.shields.io/badge/HTML-brightgreen.svg) ![Language](https://img.shields.io/badge/CSS-brightgreen.svg) 
 
-
-**Framework:** ![framework](https://img.shields.io/badge/Flask-orange.svg) ![Language](https://img.shields.io/badge/AdobeXD-orange.svg) ![Language](https://img.shields.io/badge/JupyterNotebook-orange.svg) ![Language](https://img.shields.io/badge/Bootstrap-orange.svg) ![Language](https://img.shields.io/badge/Dreamweaver-orange.svg) 
+**Framework:** ![framework](https://img.shields.io/badge/Flask-orange.svg) ![Language](https://img.shields.io/badge/AdobeXD-orange.svg) ![Language](https://img.shields.io/badge/JupyterNotebook-orange.svg)![Language](https://img.shields.io/badge/Dreamweaver-orange.svg) 
 
 **Libraries & Tools:** AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
 
-**Front End:** HTML5, Css, AdobeXD, Node.js. 
+**Front End:** HTML5, CSS, AdobeXD.
 
 ### How to reach me
 Known on internet as [**Karan Mehra**](https://github.com/Karanmehra7107/Front-End-UI-Interface/files/5042291/KaranMehra.pdf)
