@@ -27,6 +27,12 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 **Front End:** HTML5, CSS, AdobeXD.
 
+<div><p>My profile overview: </p></div>
+
+![Karan's github stats](https://github-readme-stats.vercel.app/api?username=Karanmehra7107&show_icons=true)
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Karanmehra7107.Karanmehra7107)
+
 ### How to reach me
 Known on internet as [**Karan Mehra**](https://github.com/Karanmehra7107/Front-End-UI-Interface/files/5042291/KaranMehra.pdf)
 
