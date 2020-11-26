@@ -16,6 +16,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 **Framework:** ![framework](https://img.shields.io/badge/Flask-orange.svg) ![Language](https://img.shields.io/badge/Bootstrap4-orange.svg) ![Language](https://img.shields.io/badge/JupyterNotebook-orange.svg)
 
+#### Working on:
 **Libraries & Tools:** AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
