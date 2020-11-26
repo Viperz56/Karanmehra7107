@@ -1,7 +1,7 @@
 ### Hi there  <a href="https://www.linkedin.com/in/karanmehra786/)"><img align="left" alt="Karan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> 👋
 
 I’m currently looking for a full-time role in Data Science, Machine Learning, Web Development or related field. 
-Persuing Bechlors of Computer Application @Lovely_Professional_University , Hail and grew up in Jalandhar (Punjab), I'm a Data Science Practitioner who loves to uncover the hidden facts and meaningful insights from messy data. I'm Machine learning & Deep learning with Python and R Cerified from Udemy where I learned building effective Machine Learning Model, running Data Pipelines, Natural Language Processing, Image Processing, building Recommendation Systems, and deploying solutions to the cloud.
+Pursuing Bachelor of Computer Application @Lovely_Professional_University , Hail and grew up in Jalandhar (Punjab), I'm a Data Science Practitioner who loves to uncover the hidden facts and meaningful insights from messy data. I'm Machine learning & Deep learning with Python and R Cerified from Udemy where I learned building effective Machine Learning Model, running Data Pipelines, Natural Language Processing, Image Processing, building Recommendation Systems, and deploying solutions to the cloud.
 I worked at Project Data Analyst IPL-score-prediction , where my primary task was to analyze the dataset and deploy the trained model as front-end.
 Personally, I believe in the thought that “Time is the gift that most of us take for granted”. I love to keep myself busy in gaining new skills and doing freelancing projects on the weekends.
 Apart from that, I Love to pla Drums in Metal Bands with Rock Gener.
