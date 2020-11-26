@@ -39,7 +39,8 @@ Known on internet as [**Karan Mehra**](https://github.com/Karanmehra7107/Front-E
 [<img src="https://img.icons8.com/dusk/64/000000/facebook.png"/>](https://www.facebook.com/jaimahakalkaran/)  [<img src="https://img.icons8.com/dusk/64/000000/twitter.png"/>](https://twitter.com/Karanme21095004)
 
 
-[Download Resume](https://github.com/Karanmehra7107/Front-End-UI-Interface/files/5604752/karan.lpu.cv.pdf)
+[Download Resume](https://github.com/Karanmehra7107/Karanmehra7107/files/5604795/karan.lpu.cv.pdf)
+
 
 
 
