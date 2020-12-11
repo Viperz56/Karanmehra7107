@@ -14,7 +14,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 **Languages:**  ![Language](https://img.shields.io/badge/Python-brightgreen.svg) ![Language](https://img.shields.io/badge/HTML-brightgreen.svg) ![Language](https://img.shields.io/badge/CSS-brightgreen.svg) 
 
-**Framework:** ![framework](https://img.shields.io/badge/Flask-orange.svg) ![Language](https://img.shields.io/badge/Bootstrap4-orange.svg) ![Language](https://img.shields.io/badge/JupyterNotebook-orange.svg)
+**Framework:** ![framework](https://img.shields.io/badge/Flask-orange.svg) ![Language](https://img.shields.io/badge/Bootstrap4-orange.svg) ![Language](https://img.shields.io/badge/JupyterNotebook-orange.svg)   ![Tool](https://img.shields.io/badge/Tableu-white.svg)
 
 #### Working on:
 **Libraries & Tools:** AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
