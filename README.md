@@ -42,7 +42,7 @@ Known on internet as [**Karan Mehra**](https://github.com/Karanmehra7107/Front-E
 [Tableu Public Dashboards](https://public.tableau.com/profile/karan6916#!/)
 
 
-[Download Resume](https://github.com/Karanmehra7107/python/files/5643443/karan.lpu.cv.pdf)
+[Download Resume](https://github.com/Karanmehra7107/Data-gathering/files/5703421/karan.cv.pdf)
 
 
 
