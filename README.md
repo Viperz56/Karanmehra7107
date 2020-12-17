@@ -4,11 +4,6 @@
    :alt: Awesome
    :target: https://github.com/sindresorhus/awesome
 
-
-.. |OK_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
-.. |FIXME_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png
-
-
 👋
 
 I’m currently looking for a full-time role in Data Science, Machine Learning, Web Development or related field. 
