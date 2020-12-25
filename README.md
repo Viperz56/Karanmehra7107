@@ -31,7 +31,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karanmehra7107_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karanmehra7107=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
 </p>
 
 
