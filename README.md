@@ -29,6 +29,13 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Karanmehra7107.Karanmehra7107)
 
+
+<p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soldy&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
+</p>
+
+
+
 ### How to reach me
 Known on internet as [**Karan Mehra**](https://github.com/Karanmehra7107/Front-End-UI-Interface/files/5042291/KaranMehra.pdf)
 
