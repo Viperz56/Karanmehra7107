@@ -49,7 +49,8 @@ Known on internet as [**Karan Mehra**](https://github.com/Karanmehra7107/Front-E
 [Tableu Public Dashboards](https://public.tableau.com/profile/karan6916#!/)
 
 
-[Download Resume](https://github.com/Karanmehra7107/Data-gathering/files/5703421/karan.cv.pdf)
+[Download Resume](https://github.com/Karanmehra7107/Books-Review-MERN/files/5776066/karanMehra.pdf)
+
 
 
 
