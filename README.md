@@ -1,6 +1,9 @@
 ### Hi there  👋
 
-I’m currently looking for a full-time role in Data Science, Machine Learning or related field. Persuing Bachelors of Computer Application @Lovely_Professional_University , Hail and grew up in Jalandhar (Punjab), I'm a Data Science Practitioner who loves to uncover the hidden facts and meaningful insights from messy data. “Time is the gift that most of us take for granted”. I love to keep myself busy in gaining new skills and doing freelancing projects on the weekends. I am working towards a role where I can engage with a group of like-minded people who dream to bring revolution in the world with data.
+Persuing Bechlors of Computer Application @Lovely_Professional_University , Hail and grew up in Jalandhar (Punjab), I'm learning Data Science and Machine Learning Algorithms with Python, Loves to uncover the hidden facts and meaningful insights from messy data. I'm Data science and Buisness analyst intern at @The Sparks Foundation 2021 batch where I learn building effective Machine Learning Model, running Data Pipelines, Natural Language Processing, Image Processing, building Recommendation Systems, and deploying solutions to the cloud.
+
+Personally, I believe in the thought that “Time is the gift that most of us take for granted”. I love to keep myself busy in gaining new skills and doing freelancing projects on the weekends.
+I am working towards a role where I can engage with a group of like-minded people who dream to bring revolution in the world with data.
 
 
 ### Things I'm good at :fire:
