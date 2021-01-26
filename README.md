@@ -1,5 +1,7 @@
-<h1 align="center"> Hi there  👋</h1>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Karanmehra7107.Karanmehra7107)
+<h1 align="center">Hi there  👋</h1>
+
+<img align='right' src="https://i.imgur.com/OTKgDSt.gif" width="215">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Karanmehra7107" alt="karanmehra" /> </p>
 
 
 ### Things I'm good at :fire:
