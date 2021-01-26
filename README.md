@@ -20,20 +20,8 @@ Known on internet as [**Karan Mehra**](https://github.com/Karanmehra7107/Front-E
 [<img src="https://img.icons8.com/dusk/64/000000/facebook.png"/>](https://www.facebook.com/jaimahakalkaran/)  [<img src="https://img.icons8.com/dusk/64/000000/twitter.png"/>](https://twitter.com/Karanme21095004)  
 
 
-[Tableu Public Dashboards](https://public.tableau.com/profile/karan6916#!/)
-
 
 [Download Resume](https://github.com/Karanmehra7107/Books-Review-MERN/files/5776066/karanMehra.pdf)
-
-
-
-
-
-
-
-
-
-
 
 
   
