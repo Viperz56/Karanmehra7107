@@ -8,8 +8,6 @@
 - 👨‍💻 All of my projects are available at [www.karanmehra7107.com](https://karanmehra7107.github.io/My-Portfolio/index.html)
 - 📫 You can reach me at **Karanmehra7107@gmail.com**
 
-![Karan's github stats](https://github-readme-stats.vercel.app/api?username=Karanmehra7107&show_icons=true) 
-
 
 ```python
 def skills_of_karan():
@@ -27,6 +25,11 @@ def skills_of_karan():
 [Download Resume](https://github.com/Karanmehra7107/Books-Review-MERN/files/5776066/karanMehra.pdf)
 
 
-  
+  <p align="left">
 [![Animated GIF-downsized_large (4)](https://user-images.githubusercontent.com/62024355/87348913-21f77d80-c573-11ea-9297-ba7acdf5a9e0.gif)]([KaranMehra.pdf][KaranMehra.pdf](https://github.com/Karanmehra7107/Bootstrap-cap916/files/5042263/KaranMehra.pdf)
-)
+)</p>
+
+<p align="right">
+![Karan's github stats](https://github-readme-stats.vercel.app/api?username=Karanmehra7107&show_icons=true) 
+</P>
+
