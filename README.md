@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karanmehra7107" alt="karanmehra" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning Capstone Project**
+- 🔭 ex Intern  [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
 - 👯 I’m looking for an opportunity in Data Science, Machine Learning or related fields   
 - 👨‍💻 All of my projects are available at [www.karanmehra7107.com](https://karanmehra7107.github.io/My-Portfolio/index.html)
 - 📫 You can reach me at **Karanmehra7107@gmail.com**
