@@ -4,16 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karanmehra7107" alt="karanmehra" /> </p>
 
 
-
-
-![Karan's github stats](https://github-readme-stats.vercel.app/api?username=Karanmehra7107&show_icons=true)
-
- 
-
-<p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karanmehra7107=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
-</p>
-
+![Karan's github stats](https://github-readme-stats.vercel.app/api?username=Karanmehra7107&show_icons=true) 
 
 
 ### How to reach me
