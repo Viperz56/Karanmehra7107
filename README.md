@@ -4,21 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karanmehra7107" alt="karanmehra" /> </p>
 
 
-### Things I'm good at :fire:
-**Other skills:**  Playback __Drummer__
 
-**Languages:**  ![Language](https://img.shields.io/badge/Python-brightgreen.svg) ![Language](https://img.shields.io/badge/HTML-brightgreen.svg) ![Language](https://img.shields.io/badge/CSS-brightgreen.svg) 
-
-**Framework:** ![framework](https://img.shields.io/badge/Flask-orange.svg) ![Language](https://img.shields.io/badge/Bootstrap4-orange.svg) ![Language](https://img.shields.io/badge/JupyterNotebook-orange.svg)   ![Tool](https://img.shields.io/badge/Tableu-white.svg)
-
-#### Working on:
-**Libraries & Tools:** AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
-
-**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
-
-**Front End:** HTML5, CSS, AdobeXD.
-
-<div><p>My profile overview: </p></div>
 
 ![Karan's github stats](https://github-readme-stats.vercel.app/api?username=Karanmehra7107&show_icons=true)
 
