@@ -15,7 +15,7 @@
 ```python
 def skills_of_karan():
   tech_with_proficiency={'Python':'Intermediate','Excel':'Intermediate','HTML':'Intermidiate','Tableau':'Beginner'}
-  tools = ['pandas','sklearn','matplotlib','seaborn']
+  tools = ['pandas','sklearn','matplotlib','seaborn','streamlit']
   active_learner = True
   return ∞
 ```
