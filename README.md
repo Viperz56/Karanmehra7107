@@ -16,7 +16,6 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/Karanmehra7107<
   
 </details>
 
-![Karan's github stats](https://github-readme-stats.vercel.app/api?username=Karanmehra7107&show_icons=true) 
 
 
 ```python
