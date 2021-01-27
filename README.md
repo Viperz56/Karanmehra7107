@@ -9,6 +9,13 @@
 - 📫 You can reach me at **Karanmehra7107@gmail.com**
 
 
+<details>	
+  <summary><b>GitHub Stats</b></summary>
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&show_icons=truehow_icons=true&hide_border=true" /> <br>
+Some Advance Stats about my GitHub Profile - https://gitstats.me/Karanmehra7107<br>
+  
+</details>
+
 ![Karan's github stats](https://github-readme-stats.vercel.app/api?username=Karanmehra7107&show_icons=true) 
 
 
