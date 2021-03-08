@@ -32,7 +32,8 @@ def skills_of_karan():
 
 
 
-[Download Resume](https://github.com/Karanmehra7107/Books-Review-MERN/files/5776066/karanMehra.pdf)
+[Download Resume](https://github.com/Karanmehra7107/My-Marks-Analysis/files/6102392/karanMehra.pdf)
+
 
 
  
