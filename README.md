@@ -7,7 +7,7 @@
 - 🔭 ex Intern  [KPMG](https://home.kpmg/xx/en/home.html)
 - 👯 I’m looking for an opportunity in Data Science, Machine Learning or related fields   
 - 👨‍💻 All of my projects are available at [www.karanmehra7107.com](https://karanmehra7107.github.io/My-Portfolio/index.html)
-- 📫 You can reach me at **Karanmehra7107@gmail.com** | **Karankmehra8146287107@gmail.com**
+- 📫 You can reach me at **Karanmehra7107@gmail.com** | **Karankmehra8146287107@gmail.com** | **karan.11815793@lpu.in**
 
 
 <details>	
