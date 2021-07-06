@@ -2,9 +2,8 @@
 <img align='right' src="https://i.imgur.com/OTKgDSt.gif" width="215">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karanmehra7107" alt="karanmehra" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Capstone Project** and **My Portfolio**
-- 🔭 ex Intern  [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
-- 🔭 ex Intern  [KPMG](https://home.kpmg/xx/en/home.html)
+- 🔭 I’m currently working on **Advance Data analytics** and **My Portfolio**
+- 🔭 ex Intern  [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/), [KPMG](https://home.kpmg/xx/en/home.html), [Accenture Developer](https://home.kpmg/xx/en/home.html), [Accenture Consultant](https://home.kpmg/xx/en/home.html), [Suven Consultants & Technology Pvt. Ltd.](https://home.kpmg/xx/en/home.html)
 - 👯 I’m looking for an opportunity in Data Science, Machine Learning or related fields   
 - 👨‍💻 All of my projects are available at [www.karanmehra7107.com](https://karanmehra7107.github.io/My-Portfolio/index.html)
 - 📫 You can reach me at **Karanmehra7107@gmail.com** | **Karankmehra8146287107@gmail.com** | **karan.11815793@lpu.in**
