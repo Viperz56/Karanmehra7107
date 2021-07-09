@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Advance Data analytics** and **My Portfolio**
 - 🔭 ex Intern  [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/), [KPMG](https://home.kpmg/xx/en/home.html), [Accenture Developer](https://home.kpmg/xx/en/home.html), [Accenture Consultant](https://home.kpmg/xx/en/home.html), [Suven Consultants & Technology Pvt. Ltd.](https://home.kpmg/xx/en/home.html)
 - 👯 I’m serving at [Strategic IP Information (SIPI IP)](https://sipi-ip.com/)  
-- 👨‍💻 All of my projects are available at [www.karanmehra7107.com](https://karanmehra7107.github.io/My-Portfolio/index.html) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://karanmehra7107.github.io/My-Portfolio/index.html) 
+- 👨‍💻 All of my projects are available at [www.karanmehra7107.com](https://karanmehra7107.github.io/My-Portfolio/index.html)
 - 📫 You can reach me at **Karanmehra7107@gmail.com** | **Karankmehra8146287107@gmail.com** | **karan.11815793@lpu.in**
 
 
