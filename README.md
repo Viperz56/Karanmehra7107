@@ -2,7 +2,8 @@
 <img align='right' src="https://i.imgur.com/OTKgDSt.gif" width="215">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karanmehra7107" alt="karanmehra" /> </p>
 
-- 🔭 I’m currently working on **Advance Data analytics** and **My Portfolio**
+- 🔭 I’m currently working on **Data Sciences** and **My Portfolio**
+- 🔭 Research Analyst @_SIPI 
 - 🔭 ex Intern  [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/), [KPMG](https://home.kpmg/xx/en/home.html), [Accenture Developer](https://home.kpmg/xx/en/home.html), [Accenture Consultant](https://home.kpmg/xx/en/home.html), [Suven Consultants & Technology Pvt. Ltd.](https://home.kpmg/xx/en/home.html)
 - 👯 I’m serving at [Strategic IP Information (SIPI IP)](https://sipi-ip.com/)  
 - 👨‍💻 All of my projects are available at [www.karanmehra7107.com](https://karanmehra7107.github.io/My-Portfolio/index.html)
