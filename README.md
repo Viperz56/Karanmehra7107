@@ -7,7 +7,7 @@
 - 🔭 ex Intern  [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/), [KPMG](https://home.kpmg/xx/en/home.html), [Accenture Developer](https://home.kpmg/xx/en/home.html), [Accenture Consultant](https://home.kpmg/xx/en/home.html), [Suven Consultants & Technology Pvt. Ltd.](https://home.kpmg/xx/en/home.html)
 - 👨‍💻 All of my projects are available at [www.karanmehra7107.com](https://karanmehra7107.github.io/My-Portfolio/index.html)
 - 📫 You can reach me at **Karanmehra7107@gmail.com** | **Karankmehra8146287107@gmail.com** | **karan.11815793@lpu.in**
-
+                                - 📫 [Karanmehra.ml](https://karanmehra.ml/)
 
 <details>	
   <summary><b>GitHub Stats</b></summary>
