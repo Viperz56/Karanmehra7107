@@ -21,7 +21,7 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/Karanmehra7107<
 ```python
 def skills_of_karan():
   tech_with_proficiency={'Python':'Intermediate','Excel':'Intermediate','HTML':'Intermidiate','Tableau':'Beginner'}
-  tools = ['pandas','sklearn','matplotlib','seaborn','streamlit']
+  tools = ['pandas','sklearn','matplotlib','seaborn','streamlit','Rapidminer']
   active_learner = True
   return ∞
 ```
