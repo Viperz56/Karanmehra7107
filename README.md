@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karanmehra7107" alt="karanmehra" /> </p>
 
 - 🔭 I’m currently gaining handson skills on **Data Sciences** and **My Portfolio**
-- 👯  Research Analyst @_SIPI [Strategic IP Information (SIPI IP)](https://sipi-ip.com/) 
-- 🔭 ex Intern  [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/), [KPMG](https://home.kpmg/xx/en/home.html), [Accenture Developer](https://home.kpmg/xx/en/home.html), [Accenture Consultant](https://home.kpmg/xx/en/home.html), [Suven Consultants & Technology Pvt. Ltd.](https://home.kpmg/xx/en/home.html)
+- 👯  Ex Research Analyst @_SIPI [Strategic IP Information (SIPI IP)](https://sipi-ip.com/) 
+- 🔭 Ex Intern  [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/), [KPMG](https://home.kpmg/xx/en/home.html), [Accenture Developer](https://home.kpmg/xx/en/home.html), [Accenture Consultant](https://home.kpmg/xx/en/home.html), [Suven Consultants & Technology Pvt. Ltd.](https://home.kpmg/xx/en/home.html)
 - 👨‍💻 All of my projects are available at [www.karanmehra7107.com](https://karanmehra7107.github.io/My-Portfolio/index.html)
 - 📫 You can reach me at **Karanmehra7107@gmail.com** | **Karankmehra8146287107@gmail.com** | **karan.11815793@lpu.in**
                                 - 📫 [Karanmehra.ml](https://karanmehra.ml/)
