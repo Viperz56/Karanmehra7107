@@ -4,9 +4,9 @@
 
 - 🔭 Pursuing **Masters of Computer Applications @Lovely_Professional_University**
 - 🔭 I’m currently gaining handson skills on **Data Sciences** and **My Portfolio**
-- 👯  Ex Research Analyst @_SIPI [Strategic IP Information (SIPI IP)](https://sipi-ip.com/) 
+- 👯  Ex Research Analyst [Strategic IP Information](https://sipi-ip.com/) 
 - 🔭 Ex Intern  [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/), [KPMG](https://home.kpmg/xx/en/home.html), [Accenture Developer](https://home.kpmg/xx/en/home.html), [Accenture Consultant](https://home.kpmg/xx/en/home.html), [Suven Consultants & Technology Pvt. Ltd.](https://home.kpmg/xx/en/home.html)
-- 👨‍💻 All of my projects are available at [www.karanmehra7107.com](https://karanmehra7107.github.io/My-Portfolio/index.html)
+- 👨‍💻 All of my projects are available at [www.karanmehra.ml](https://karanmehra7107.github.io/My-Portfolio/index.html)
 - 📫 You can reach me at **Karanmehra7107@gmail.com** | **Karankmehra8146287107@gmail.com** | **karan.11815793@lpu.in**
                                 - 📫 [Karanmehra.ml](https://karanmehra.ml/)
 
