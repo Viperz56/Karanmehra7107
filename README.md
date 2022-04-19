@@ -2,7 +2,8 @@
 <img align='right' src="https://i.imgur.com/OTKgDSt.gif" width="215">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karanmehra7107" alt="karanmehra" /> </p>
 
-- 🔭 Pursuing **Masters of Computer Applications @Lovely_Professional_University**
+- 🧑‍💻 Bechlor in Computer Applications
+- 💻 Pursuing **Masters of Computer Applications @Lovely_Professional_University**
 - 🔭 I’m currently gaining handson skills on **Data Sciences** and **My Portfolio**
 - 👯  Ex Research Analyst [Strategic IP Information](https://sipi-ip.com/) 
 - 🔭 Ex Intern  [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/), [KPMG](https://home.kpmg/xx/en/home.html), [Accenture Developer](https://home.kpmg/xx/en/home.html), [Accenture Consultant](https://home.kpmg/xx/en/home.html), [Suven Consultants & Technology Pvt. Ltd.](https://home.kpmg/xx/en/home.html)
