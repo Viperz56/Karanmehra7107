@@ -33,7 +33,7 @@ def skills_of_karan():
 
 
 
-[Download Resume](https://github.com/Karanmehra7107/My-Portfolio/files/6278353/Karan.Mehra.CV.pdf)
+[Download Resume](https://github.com/Karanmehra7107/Karanmehra7107/files/8515587/Karan.ML.CV.pdf)
 
 
 
