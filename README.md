@@ -2,7 +2,7 @@
 <img align='right' src="https://i.imgur.com/OTKgDSt.gif" width="215">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karanmehra7107" alt="karanmehra" /> </p>
 
-- 🧑‍💻 Bechlor in Computer Applications
+- 🧑‍💻 Bachelor in Computer Applications
 - 💻 Pursuing **Masters of Computer Applications @Lovely_Professional_University**
 - 🔭 I’m currently gaining handson skills on **Data Sciences** and **Machine Learning**
 - 👯  Ex Research Analyst [Strategic IP Information](https://sipi-ip.com/) 
