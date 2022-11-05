@@ -35,10 +35,6 @@ def skills_of_karan():
 
 
 
-![QR (1)](https://user-images.githubusercontent.com/62024355/185438637-79cdd076-e465-43cf-b398-f8fb42b3c9a0.png)
-
-
-
 [Download Resume](https://github.com/Karanmehra7107/Karanmehra7107/files/8515587/Karan.ML.CV.pdf)
 
 
