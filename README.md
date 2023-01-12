@@ -34,6 +34,7 @@ def skills_of_karan():
 [<img src="https://img.icons8.com/dusk/64/000000/facebook.png"/>](https://www.facebook.com/jaimahakalkaran/) 
   
 
+![ttt](https://user-images.githubusercontent.com/51947288/211992588-ebad3569-d535-4494-96ce-7a215e38fbe2.png)
 
 
 [Download Resume](https://github.com/Karanmehra7107/Karanmehra7107/files/8515587/Karan.ML.CV.pdf)
